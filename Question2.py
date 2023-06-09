@@ -27,7 +27,7 @@ for i in range(length):
     
     # Sử dụng hàm Counter để đếm số nu từng loại khi sắp gióng cột cho tất cả các sequences
     counts = Counter(nu_at_each_pos)
-    
+    logging.info("Info")
     # Sử dụng method most_common để sắp xếp các nu theo thứ tự tần số xuất hiện giảm dần
     most_common = counts.most_common()
 
@@ -38,6 +38,7 @@ for i in range(length):
     # Nếu tần số xuất hiện của 2 nu phổ biến nhất mà bằng nhau thì chưa xác định được vị trí nu đó trên consensus
     if len(most_common) > 1 and most_common[0][1] == most_common[1][1]:
         consensus += "N" 
+        logging.info("Debug")
     else:
         consensus += most_common[0][0]  
 
