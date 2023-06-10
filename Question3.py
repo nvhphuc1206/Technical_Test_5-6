@@ -29,6 +29,6 @@ allign_list = [list_of_reads[0]]
 for i in range(len(list_of_reads)):
     target_dna = assembly(list_of_reads[i],allign_list[-1])
     allign_list.append(target_dna)
-    logging.info("Info")
+    logging.info(f"Trinh tu consensus sau khi allign {i+1,i+2,target_dna}")
 
 print(allign_list[-1])

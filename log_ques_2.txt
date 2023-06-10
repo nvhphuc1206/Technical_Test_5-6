@@ -1,70 +1,140 @@
-2023-06-09 17:45:08,322 - INFO - Info
-2023-06-09 17:45:08,322 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,323 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,324 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
-2023-06-09 17:45:08,325 - INFO - Info
+2023-06-10 11:19:00,772 - INFO - So nu o vi tri (1, Counter({'T': 5, 'C': 2, 'A': 2, 'G': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri T
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (2, Counter({'T': 10}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TT
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (3, Counter({'A': 8, 'T': 1, 'C': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTA
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (4, Counter({'C': 10}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTAC
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (5, Counter({'G': 10}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACG
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (6, Counter({'C': 7, 'G': 2, 'A': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGC
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (7, Counter({'T': 9, 'A': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCT
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (8, Counter({'G': 9, 'T': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTG
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (9, Counter({'G': 5, 'C': 2, 'T': 2, 'A': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGG
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (10, Counter({'C': 9, 'A': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGC
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (11, Counter({'G': 4, 'A': 3, 'C': 2, 'T': 1}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCG
+2023-06-10 11:19:00,773 - INFO - So nu o vi tri (12, Counter({'G': 10}))
+2023-06-10 11:19:00,773 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGG
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (13, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGC
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (14, Counter({'A': 5, 'G': 3, 'T': 1, 'C': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCA
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (15, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCAC
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (16, Counter({'G': 9, 'C': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACG
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (17, Counter({'C': 4, 'G': 3, 'T': 2, 'A': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGC
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (18, Counter({'C': 10}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCC
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (19, Counter({'T': 9, 'C': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCT
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (20, Counter({'A': 9, 'T': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTA
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (21, Counter({'A': 10}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAA
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (22, Counter({'T': 5, 'C': 2, 'G': 2, 'A': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAAT
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (23, Counter({'A': 9, 'C': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATA
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (24, Counter({'C': 9, 'A': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATAC
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (25, Counter({'A': 9, 'C': 1}))
+2023-06-10 11:19:00,774 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACA
+2023-06-10 11:19:00,774 - INFO - So nu o vi tri (26, Counter({'T': 9, 'A': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACAT
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (27, Counter({'G': 9, 'T': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATG
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (28, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGC
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (29, Counter({'A': 9, 'C': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCA
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (30, Counter({'A': 10}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAA
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (31, Counter({'G': 9, 'A': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAG
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (32, Counter({'T': 4, 'A': 3, 'G': 2, 'C': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGT
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (33, Counter({'C': 8, 'T': 2}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTC
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (34, Counter({'G': 6, 'A': 2, 'C': 1, 'T': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCG
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (35, Counter({'A': 6, 'T': 2, 'G': 1, 'C': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGA
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (36, Counter({'A': 10}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAA
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (37, Counter({'C': 9, 'A': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAAC
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (38, Counter({'G': 4, 'C': 3, 'T': 2, 'A': 1}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACG
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (39, Counter({'G': 10}))
+2023-06-10 11:19:00,775 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGG
+2023-06-10 11:19:00,775 - INFO - So nu o vi tri (40, Counter({'A': 9, 'G': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (41, Counter({'A': 10}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (42, Counter({'G': 9, 'A': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAG
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (43, Counter({'T': 9, 'G': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGT
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (44, Counter({'A': 5, 'T': 4, 'G': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (45, Counter({'T': 9, 'A': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTAT
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (46, Counter({'A': 9, 'T': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (47, Counter({'A': 10}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (48, Counter({'G': 9, 'A': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAG
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (49, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGC
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (50, Counter({'A': 9, 'C': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (51, Counter({'G': 9, 'A': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAG
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (52, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGC
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (53, Counter({'A': 9, 'C': 1}))
+2023-06-10 11:19:00,776 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCA
+2023-06-10 11:19:00,776 - INFO - So nu o vi tri (54, Counter({'A': 10}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAA
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (55, Counter({'T': 9, 'A': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAAT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (56, Counter({'T': 10}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (57, Counter({'A': 9, 'T': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTA
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (58, Counter({'C': 6, 'A': 3, 'T': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTAC
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (59, Counter({'A': 10}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACA
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (60, Counter({'C': 9, 'A': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACAC
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (61, Counter({'T': 9, 'C': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (62, Counter({'T': 6, 'C': 2, 'A': 2}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (63, Counter({'T': 7, 'G': 2, 'C': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (64, Counter({'A': 9, 'T': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTA
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (65, Counter({'G': 9, 'A': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAG
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (66, Counter({'T': 9, 'G': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGT
+2023-06-10 11:19:00,777 - INFO - So nu o vi tri (67, Counter({'G': 9, 'T': 1}))
+2023-06-10 11:19:00,777 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTG
+2023-06-10 11:19:00,778 - INFO - So nu o vi tri (68, Counter({'G': 10}))
+2023-06-10 11:19:00,778 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGG
+2023-06-10 11:19:00,778 - INFO - So nu o vi tri (69, Counter({'C': 9, 'G': 1}))
+2023-06-10 11:19:00,778 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGC
+2023-06-10 11:19:00,778 - INFO - So nu o vi tri (70, Counter({'A': 4, 'T': 3, 'G': 2, 'C': 1}))
+2023-06-10 11:19:00,778 - INFO - Trinh tu muc tieu sau moi lan duyet qua tung vi tri TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGCA

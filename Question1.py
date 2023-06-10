@@ -30,6 +30,7 @@ def find_repreat_subseq(dna, length):
         # Thêm list chứa các cặp subseq : count vào list kết quả tuy nhiên đối với từng length thì có thể subseq đó không có trình tự lặp lại vì vậy sẽ có list rỗng nên cần thêm điều kiện loại bỏ các rỗng đó:
         if repreat_subseq != []:
             result_list.append(repreat_subseq)
+            logging.info(f"Cac trinh tu lap lai co kich thuoc {specific_length,repreat_subseq}")
     return result_list
 
 

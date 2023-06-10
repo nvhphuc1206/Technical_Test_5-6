@@ -27,7 +27,7 @@ for i in range(length):
     
     # Sử dụng hàm Counter để đếm số nu từng loại khi sắp gióng cột cho tất cả các sequences
     counts = Counter(nu_at_each_pos)
-    logging.info("Info")
+    logging.info(f"So nu o vi tri {i+1,counts}")
     # Sử dụng method most_common để sắp xếp các nu theo thứ tự tần số xuất hiện giảm dần
     most_common = counts.most_common()
 
@@ -41,5 +41,6 @@ for i in range(length):
         logging.info("Debug")
     else:
         consensus += most_common[0][0]  
+        logging.info(f"Trinh tu muc tieu sau moi lan duyet qua tung vi tri {consensus}")
 
 print(consensus)
