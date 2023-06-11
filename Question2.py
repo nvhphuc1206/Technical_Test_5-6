@@ -45,6 +45,7 @@ for i in range(length):
     else:
         consensus += most_common[0][0]  
         logging.info(f"Trinh tu muc tieu sau lan duyet qua vi tri thu {i+1} la : {consensus}")
+        logging.info("  "*100)
 
 print(consensus)
 logging.debug("End")
