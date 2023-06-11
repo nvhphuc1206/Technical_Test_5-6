@@ -3,7 +3,7 @@
 ## Table of Contents:
  - [Table of Contents](#table-of-contents)
  - [Questions](#questions)
- - [Input](#input)
+ - [Input](#input-file)
  - [Solution](#solution)
 
 ## Questions
