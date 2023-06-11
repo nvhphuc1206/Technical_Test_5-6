@@ -1,10 +1,10 @@
 # Technical_Test_5-6
 
 ## Table of Contents:
- - [Table of Contents](table-of-contents)
- - [Questions](questions)
- - [Input](input)
- - [Solution](solution)
+ - [Table of Contents](#table-of-contents)
+ - [Questions](#questions)
+ - [Input](#input)
+ - [Solution](#solution)
 
 ## Questions
 
