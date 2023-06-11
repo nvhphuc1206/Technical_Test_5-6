@@ -18,7 +18,6 @@ Question 2: : Building a consensus by taking 10 strings in Seq02.fasta in consid
 
 Question 3:  Assembly a DNA string based on 7 sequences in Seq03.fasta. Use both argparser and logging library.
 
-
 ## Input file
 
 1. Seq01.fasta.
