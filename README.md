@@ -1,4 +1,8 @@
 # Technical_Test_5-6
+This repository summarizes 3 exercises:
+1. Find a repeated sequence in an original sequence
+2. Find consensus sequence from short reads
+3. Assembly a DNA string based on sequences
 
 ## Table of Contents:
  - [Table of Contents](#table-of-contents)
