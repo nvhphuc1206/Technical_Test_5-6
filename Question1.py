@@ -1,12 +1,21 @@
+import argparse
 import logging
 from Bio import SeqIO
 
+parser = argparse.ArgumentParser(description="Report the sequence:numberofrepeat of the Kmers that has equal or greater than 10 base-pair")
+parser.add_argument("-f", "--file",type=str, help="File trinh tu")
+parser.add_argument("-l", "--minlength",type=int, help="Chieu dai toi thieu cua repeat sequence")
+args = parser.parse_args()
+
+file_path = str(args.file).replace('\\','/')
+
 logging.basicConfig(level=logging.DEBUG, filename="log_ques_1.txt", filemode="w",
                     format= "%(asctime)s - %(levelname)s - %(message)s")
+logging.debug("Start")
 
-dna = SeqIO.read("C:/Users/Admin/Documents/Study/KTest Training/Tài liệu/Technical_test_06June/Seq01.fasta","fasta").seq
+dna = SeqIO.read(f"{file_path}","fasta").seq
 
-# Tạo 1 hàm để tìm trình tự lặp lại và số lần lặp lại từ 1 trình tự gốc có 2 đối số gồm trình tự gốc và độ dài ngắn nhất của trình tự lặp lại: 
+# Tạo 1 hàm để tìm trình tự lặp lại và số lần lặp lại từ 1 trình tự gốc có 2 đối số gồm trình tự gốc và độ dài tối thiểu của trình tự lặp lại: 
 def find_repreat_subseq(dna, length):   
     result_list = []
     n = len(dna)
@@ -30,16 +39,16 @@ def find_repreat_subseq(dna, length):
         # Thêm list chứa các cặp subseq : count vào list kết quả tuy nhiên đối với từng length thì có thể subseq đó không có trình tự lặp lại vì vậy sẽ có list rỗng nên cần thêm điều kiện loại bỏ các rỗng đó:
         if repreat_subseq != []:
             result_list.append(repreat_subseq)
-            logging.info(f"Cac trinh tu lap lai co kich thuoc {specific_length,repreat_subseq}")
+            logging.info(f"Cac trinh tu lap lai co kich thuoc {specific_length} nu la : {repreat_subseq}")
     return result_list
 
 
 
-repeat_subsequences = find_repreat_subseq(dna,10)
+repeat_subsequences = find_repreat_subseq(dna,args.minlength)
 for i in repeat_subsequences:
     for subseq, count in i:
         print(subseq, count)
-
+logging.debug("End")
 
 
 
