@@ -31,6 +31,8 @@ Solutions for each question are in each file below, respectively:
 2. Question02.py
 3. Question03.py
 
+In addition, because the method in Question3.py is not optimal, I have consulted some other sources and redone in the file.
+
 By using argparse, it is necessary to add the set arguments to each file in order to run code files 1 and 3 using argparse:
 
 1. Open terminal.
