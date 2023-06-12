@@ -1,212 +1,212 @@
-2023-06-11 21:41:04,686 - DEBUG - Start
-2023-06-11 21:41:04,702 - INFO - So lan lap lai cua tung nu o vi tri thu 1 la :[('T', 5), ('C', 2), ('A', 2), ('G', 1)]
-2023-06-11 21:41:04,702 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 1 la : T
-2023-06-11 21:41:04,702 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,702 - INFO - So lan lap lai cua tung nu o vi tri thu 2 la :[('T', 10)]
-2023-06-11 21:41:04,702 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 2 la : TT
-2023-06-11 21:41:04,702 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,702 - INFO - So lan lap lai cua tung nu o vi tri thu 3 la :[('A', 8), ('T', 1), ('C', 1)]
-2023-06-11 21:41:04,702 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 3 la : TTA
-2023-06-11 21:41:04,702 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 4 la :[('C', 10)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 4 la : TTAC
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 5 la :[('G', 10)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 5 la : TTACG
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 6 la :[('C', 7), ('G', 2), ('A', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 6 la : TTACGC
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 7 la :[('T', 9), ('A', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 7 la : TTACGCT
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 8 la :[('G', 9), ('T', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 8 la : TTACGCTG
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 9 la :[('G', 5), ('C', 2), ('T', 2), ('A', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 9 la : TTACGCTGG
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 10 la :[('C', 9), ('A', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 10 la : TTACGCTGGC
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 11 la :[('G', 4), ('A', 3), ('C', 2), ('T', 1)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 11 la : TTACGCTGGCG
-2023-06-11 21:41:04,703 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,703 - INFO - So lan lap lai cua tung nu o vi tri thu 12 la :[('G', 10)]
-2023-06-11 21:41:04,703 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 12 la : TTACGCTGGCGG
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 13 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 13 la : TTACGCTGGCGGC
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 14 la :[('A', 5), ('G', 3), ('T', 1), ('C', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 14 la : TTACGCTGGCGGCA
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 15 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 15 la : TTACGCTGGCGGCAC
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 16 la :[('G', 9), ('C', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 16 la : TTACGCTGGCGGCACG
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 17 la :[('C', 4), ('G', 3), ('T', 2), ('A', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 17 la : TTACGCTGGCGGCACGC
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 18 la :[('C', 10)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 18 la : TTACGCTGGCGGCACGCC
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 19 la :[('T', 9), ('C', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 19 la : TTACGCTGGCGGCACGCCT
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 20 la :[('A', 9), ('T', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 20 la : TTACGCTGGCGGCACGCCTA
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 21 la :[('A', 10)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 21 la : TTACGCTGGCGGCACGCCTAA
-2023-06-11 21:41:04,704 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,704 - INFO - So lan lap lai cua tung nu o vi tri thu 22 la :[('T', 5), ('C', 2), ('G', 2), ('A', 1)]
-2023-06-11 21:41:04,704 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 22 la : TTACGCTGGCGGCACGCCTAAT
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 23 la :[('A', 9), ('C', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 23 la : TTACGCTGGCGGCACGCCTAATA
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 24 la :[('C', 9), ('A', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 24 la : TTACGCTGGCGGCACGCCTAATAC
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 25 la :[('A', 9), ('C', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 25 la : TTACGCTGGCGGCACGCCTAATACA
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 26 la :[('T', 9), ('A', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 26 la : TTACGCTGGCGGCACGCCTAATACAT
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 27 la :[('G', 9), ('T', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 27 la : TTACGCTGGCGGCACGCCTAATACATG
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 28 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 28 la : TTACGCTGGCGGCACGCCTAATACATGC
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 29 la :[('A', 9), ('C', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 29 la : TTACGCTGGCGGCACGCCTAATACATGCA
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 30 la :[('A', 10)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 30 la : TTACGCTGGCGGCACGCCTAATACATGCAA
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 31 la :[('G', 9), ('A', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 31 la : TTACGCTGGCGGCACGCCTAATACATGCAAG
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,705 - INFO - So lan lap lai cua tung nu o vi tri thu 32 la :[('T', 4), ('A', 3), ('G', 2), ('C', 1)]
-2023-06-11 21:41:04,705 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 32 la : TTACGCTGGCGGCACGCCTAATACATGCAAGT
-2023-06-11 21:41:04,705 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 33 la :[('C', 8), ('T', 2)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 33 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTC
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 34 la :[('G', 6), ('A', 2), ('C', 1), ('T', 1)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 34 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCG
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 35 la :[('A', 6), ('T', 2), ('G', 1), ('C', 1)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 35 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGA
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 36 la :[('A', 10)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 36 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAA
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 37 la :[('C', 9), ('A', 1)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 37 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAAC
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 38 la :[('G', 4), ('C', 3), ('T', 2), ('A', 1)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 38 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACG
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 39 la :[('G', 10)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 39 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGG
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 40 la :[('A', 9), ('G', 1)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 40 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGA
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,706 - INFO - So lan lap lai cua tung nu o vi tri thu 41 la :[('A', 10)]
-2023-06-11 21:41:04,706 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 41 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAA
-2023-06-11 21:41:04,706 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 42 la :[('G', 9), ('A', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 42 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAG
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 43 la :[('T', 9), ('G', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 43 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGT
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 44 la :[('A', 5), ('T', 4), ('G', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 44 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTA
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 45 la :[('T', 9), ('A', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 45 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTAT
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 46 la :[('A', 9), ('T', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 46 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATA
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 47 la :[('A', 10)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 47 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAA
-2023-06-11 21:41:04,707 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,707 - INFO - So lan lap lai cua tung nu o vi tri thu 48 la :[('G', 9), ('A', 1)]
-2023-06-11 21:41:04,707 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 48 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAG
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 49 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 49 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGC
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 50 la :[('A', 9), ('C', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 50 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCA
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 51 la :[('G', 9), ('A', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 51 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAG
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 52 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 52 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGC
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 53 la :[('A', 9), ('C', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 53 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCA
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 54 la :[('A', 10)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 54 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAA
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 55 la :[('T', 9), ('A', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 55 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAAT
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 56 la :[('T', 10)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 56 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATT
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 57 la :[('A', 9), ('T', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 57 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTA
-2023-06-11 21:41:04,708 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,708 - INFO - So lan lap lai cua tung nu o vi tri thu 58 la :[('C', 6), ('A', 3), ('T', 1)]
-2023-06-11 21:41:04,708 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 58 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTAC
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 59 la :[('A', 10)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 59 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACA
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 60 la :[('C', 9), ('A', 1)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 60 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACAC
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 61 la :[('T', 9), ('C', 1)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 61 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACT
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 62 la :[('T', 6), ('C', 2), ('A', 2)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 62 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTT
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 63 la :[('T', 7), ('G', 2), ('C', 1)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 63 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTT
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 64 la :[('A', 9), ('T', 1)]
-2023-06-11 21:41:04,709 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 64 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTA
-2023-06-11 21:41:04,709 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,709 - INFO - So lan lap lai cua tung nu o vi tri thu 65 la :[('G', 9), ('A', 1)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 65 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAG
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - INFO - So lan lap lai cua tung nu o vi tri thu 66 la :[('T', 9), ('G', 1)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 66 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGT
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - INFO - So lan lap lai cua tung nu o vi tri thu 67 la :[('G', 9), ('T', 1)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 67 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTG
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - INFO - So lan lap lai cua tung nu o vi tri thu 68 la :[('G', 10)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 68 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGG
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - INFO - So lan lap lai cua tung nu o vi tri thu 69 la :[('C', 9), ('G', 1)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 69 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGC
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - INFO - So lan lap lai cua tung nu o vi tri thu 70 la :[('A', 4), ('T', 3), ('G', 2), ('C', 1)]
-2023-06-11 21:41:04,710 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 70 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGCA
-2023-06-11 21:41:04,710 - INFO -                                                                                                                                                                                                         
-2023-06-11 21:41:04,710 - DEBUG - End
+2023-06-12 09:45:58,254 - DEBUG - Start
+2023-06-12 09:45:58,260 - INFO - So lan lap lai cua tung nu o vi tri thu 1 la :[('T', 5), ('C', 2), ('A', 2), ('G', 1)]
+2023-06-12 09:45:58,261 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 1 la : T
+2023-06-12 09:45:58,261 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,261 - INFO - So lan lap lai cua tung nu o vi tri thu 2 la :[('T', 10)]
+2023-06-12 09:45:58,261 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 2 la : TT
+2023-06-12 09:45:58,261 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,261 - INFO - So lan lap lai cua tung nu o vi tri thu 3 la :[('A', 8), ('T', 1), ('C', 1)]
+2023-06-12 09:45:58,262 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 3 la : TTA
+2023-06-12 09:45:58,262 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,262 - INFO - So lan lap lai cua tung nu o vi tri thu 4 la :[('C', 10)]
+2023-06-12 09:45:58,262 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 4 la : TTAC
+2023-06-12 09:45:58,262 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,262 - INFO - So lan lap lai cua tung nu o vi tri thu 5 la :[('G', 10)]
+2023-06-12 09:45:58,262 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 5 la : TTACG
+2023-06-12 09:45:58,262 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,262 - INFO - So lan lap lai cua tung nu o vi tri thu 6 la :[('C', 7), ('G', 2), ('A', 1)]
+2023-06-12 09:45:58,263 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 6 la : TTACGC
+2023-06-12 09:45:58,263 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,263 - INFO - So lan lap lai cua tung nu o vi tri thu 7 la :[('T', 9), ('A', 1)]
+2023-06-12 09:45:58,263 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 7 la : TTACGCT
+2023-06-12 09:45:58,263 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,263 - INFO - So lan lap lai cua tung nu o vi tri thu 8 la :[('G', 9), ('T', 1)]
+2023-06-12 09:45:58,264 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 8 la : TTACGCTG
+2023-06-12 09:45:58,264 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,264 - INFO - So lan lap lai cua tung nu o vi tri thu 9 la :[('G', 5), ('C', 2), ('T', 2), ('A', 1)]
+2023-06-12 09:45:58,264 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 9 la : TTACGCTGG
+2023-06-12 09:45:58,264 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,264 - INFO - So lan lap lai cua tung nu o vi tri thu 10 la :[('C', 9), ('A', 1)]
+2023-06-12 09:45:58,264 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 10 la : TTACGCTGGC
+2023-06-12 09:45:58,264 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,264 - INFO - So lan lap lai cua tung nu o vi tri thu 11 la :[('G', 4), ('A', 3), ('C', 2), ('T', 1)]
+2023-06-12 09:45:58,265 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 11 la : TTACGCTGGCG
+2023-06-12 09:45:58,265 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,265 - INFO - So lan lap lai cua tung nu o vi tri thu 12 la :[('G', 10)]
+2023-06-12 09:45:58,265 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 12 la : TTACGCTGGCGG
+2023-06-12 09:45:58,265 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,265 - INFO - So lan lap lai cua tung nu o vi tri thu 13 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,265 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 13 la : TTACGCTGGCGGC
+2023-06-12 09:45:58,265 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,265 - INFO - So lan lap lai cua tung nu o vi tri thu 14 la :[('A', 5), ('G', 3), ('T', 1), ('C', 1)]
+2023-06-12 09:45:58,265 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 14 la : TTACGCTGGCGGCA
+2023-06-12 09:45:58,265 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,266 - INFO - So lan lap lai cua tung nu o vi tri thu 15 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,266 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 15 la : TTACGCTGGCGGCAC
+2023-06-12 09:45:58,266 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,266 - INFO - So lan lap lai cua tung nu o vi tri thu 16 la :[('G', 9), ('C', 1)]
+2023-06-12 09:45:58,266 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 16 la : TTACGCTGGCGGCACG
+2023-06-12 09:45:58,266 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,266 - INFO - So lan lap lai cua tung nu o vi tri thu 17 la :[('C', 4), ('G', 3), ('T', 2), ('A', 1)]
+2023-06-12 09:45:58,266 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 17 la : TTACGCTGGCGGCACGC
+2023-06-12 09:45:58,266 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,266 - INFO - So lan lap lai cua tung nu o vi tri thu 18 la :[('C', 10)]
+2023-06-12 09:45:58,267 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 18 la : TTACGCTGGCGGCACGCC
+2023-06-12 09:45:58,267 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,267 - INFO - So lan lap lai cua tung nu o vi tri thu 19 la :[('T', 9), ('C', 1)]
+2023-06-12 09:45:58,267 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 19 la : TTACGCTGGCGGCACGCCT
+2023-06-12 09:45:58,267 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,267 - INFO - So lan lap lai cua tung nu o vi tri thu 20 la :[('A', 9), ('T', 1)]
+2023-06-12 09:45:58,267 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 20 la : TTACGCTGGCGGCACGCCTA
+2023-06-12 09:45:58,267 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,267 - INFO - So lan lap lai cua tung nu o vi tri thu 21 la :[('A', 10)]
+2023-06-12 09:45:58,267 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 21 la : TTACGCTGGCGGCACGCCTAA
+2023-06-12 09:45:58,267 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,267 - INFO - So lan lap lai cua tung nu o vi tri thu 22 la :[('T', 5), ('C', 2), ('G', 2), ('A', 1)]
+2023-06-12 09:45:58,267 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 22 la : TTACGCTGGCGGCACGCCTAAT
+2023-06-12 09:45:58,267 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,268 - INFO - So lan lap lai cua tung nu o vi tri thu 23 la :[('A', 9), ('C', 1)]
+2023-06-12 09:45:58,268 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 23 la : TTACGCTGGCGGCACGCCTAATA
+2023-06-12 09:45:58,268 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,268 - INFO - So lan lap lai cua tung nu o vi tri thu 24 la :[('C', 9), ('A', 1)]
+2023-06-12 09:45:58,268 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 24 la : TTACGCTGGCGGCACGCCTAATAC
+2023-06-12 09:45:58,268 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,268 - INFO - So lan lap lai cua tung nu o vi tri thu 25 la :[('A', 9), ('C', 1)]
+2023-06-12 09:45:58,268 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 25 la : TTACGCTGGCGGCACGCCTAATACA
+2023-06-12 09:45:58,268 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,268 - INFO - So lan lap lai cua tung nu o vi tri thu 26 la :[('T', 9), ('A', 1)]
+2023-06-12 09:45:58,268 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 26 la : TTACGCTGGCGGCACGCCTAATACAT
+2023-06-12 09:45:58,268 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,268 - INFO - So lan lap lai cua tung nu o vi tri thu 27 la :[('G', 9), ('T', 1)]
+2023-06-12 09:45:58,268 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 27 la : TTACGCTGGCGGCACGCCTAATACATG
+2023-06-12 09:45:58,268 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 28 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 28 la : TTACGCTGGCGGCACGCCTAATACATGC
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 29 la :[('A', 9), ('C', 1)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 29 la : TTACGCTGGCGGCACGCCTAATACATGCA
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 30 la :[('A', 10)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 30 la : TTACGCTGGCGGCACGCCTAATACATGCAA
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 31 la :[('G', 9), ('A', 1)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 31 la : TTACGCTGGCGGCACGCCTAATACATGCAAG
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 32 la :[('T', 4), ('A', 3), ('G', 2), ('C', 1)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 32 la : TTACGCTGGCGGCACGCCTAATACATGCAAGT
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 33 la :[('C', 8), ('T', 2)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 33 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTC
+2023-06-12 09:45:58,269 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,269 - INFO - So lan lap lai cua tung nu o vi tri thu 34 la :[('G', 6), ('A', 2), ('C', 1), ('T', 1)]
+2023-06-12 09:45:58,269 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 34 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCG
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 35 la :[('A', 6), ('T', 2), ('G', 1), ('C', 1)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 35 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGA
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 36 la :[('A', 10)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 36 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAA
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 37 la :[('C', 9), ('A', 1)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 37 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAAC
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 38 la :[('G', 4), ('C', 3), ('T', 2), ('A', 1)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 38 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACG
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 39 la :[('G', 10)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 39 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGG
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 40 la :[('A', 9), ('G', 1)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 40 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGA
+2023-06-12 09:45:58,270 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,270 - INFO - So lan lap lai cua tung nu o vi tri thu 41 la :[('A', 10)]
+2023-06-12 09:45:58,270 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 41 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAA
+2023-06-12 09:45:58,271 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,271 - INFO - So lan lap lai cua tung nu o vi tri thu 42 la :[('G', 9), ('A', 1)]
+2023-06-12 09:45:58,271 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 42 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAG
+2023-06-12 09:45:58,271 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,271 - INFO - So lan lap lai cua tung nu o vi tri thu 43 la :[('T', 9), ('G', 1)]
+2023-06-12 09:45:58,271 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 43 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGT
+2023-06-12 09:45:58,271 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,271 - INFO - So lan lap lai cua tung nu o vi tri thu 44 la :[('A', 5), ('T', 4), ('G', 1)]
+2023-06-12 09:45:58,271 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 44 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTA
+2023-06-12 09:45:58,271 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,271 - INFO - So lan lap lai cua tung nu o vi tri thu 45 la :[('T', 9), ('A', 1)]
+2023-06-12 09:45:58,271 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 45 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTAT
+2023-06-12 09:45:58,271 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,271 - INFO - So lan lap lai cua tung nu o vi tri thu 46 la :[('A', 9), ('T', 1)]
+2023-06-12 09:45:58,271 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 46 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATA
+2023-06-12 09:45:58,272 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,272 - INFO - So lan lap lai cua tung nu o vi tri thu 47 la :[('A', 10)]
+2023-06-12 09:45:58,272 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 47 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAA
+2023-06-12 09:45:58,272 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,272 - INFO - So lan lap lai cua tung nu o vi tri thu 48 la :[('G', 9), ('A', 1)]
+2023-06-12 09:45:58,272 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 48 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAG
+2023-06-12 09:45:58,272 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,272 - INFO - So lan lap lai cua tung nu o vi tri thu 49 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,272 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 49 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGC
+2023-06-12 09:45:58,272 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,272 - INFO - So lan lap lai cua tung nu o vi tri thu 50 la :[('A', 9), ('C', 1)]
+2023-06-12 09:45:58,272 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 50 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCA
+2023-06-12 09:45:58,272 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,273 - INFO - So lan lap lai cua tung nu o vi tri thu 51 la :[('G', 9), ('A', 1)]
+2023-06-12 09:45:58,273 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 51 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAG
+2023-06-12 09:45:58,273 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,273 - INFO - So lan lap lai cua tung nu o vi tri thu 52 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,273 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 52 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGC
+2023-06-12 09:45:58,273 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,273 - INFO - So lan lap lai cua tung nu o vi tri thu 53 la :[('A', 9), ('C', 1)]
+2023-06-12 09:45:58,273 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 53 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCA
+2023-06-12 09:45:58,273 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,273 - INFO - So lan lap lai cua tung nu o vi tri thu 54 la :[('A', 10)]
+2023-06-12 09:45:58,273 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 54 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAA
+2023-06-12 09:45:58,273 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,273 - INFO - So lan lap lai cua tung nu o vi tri thu 55 la :[('T', 9), ('A', 1)]
+2023-06-12 09:45:58,273 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 55 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAAT
+2023-06-12 09:45:58,273 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,274 - INFO - So lan lap lai cua tung nu o vi tri thu 56 la :[('T', 10)]
+2023-06-12 09:45:58,274 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 56 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATT
+2023-06-12 09:45:58,274 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,274 - INFO - So lan lap lai cua tung nu o vi tri thu 57 la :[('A', 9), ('T', 1)]
+2023-06-12 09:45:58,274 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 57 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTA
+2023-06-12 09:45:58,274 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,274 - INFO - So lan lap lai cua tung nu o vi tri thu 58 la :[('C', 6), ('A', 3), ('T', 1)]
+2023-06-12 09:45:58,274 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 58 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTAC
+2023-06-12 09:45:58,274 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,274 - INFO - So lan lap lai cua tung nu o vi tri thu 59 la :[('A', 10)]
+2023-06-12 09:45:58,274 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 59 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACA
+2023-06-12 09:45:58,274 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,274 - INFO - So lan lap lai cua tung nu o vi tri thu 60 la :[('C', 9), ('A', 1)]
+2023-06-12 09:45:58,274 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 60 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACAC
+2023-06-12 09:45:58,275 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,275 - INFO - So lan lap lai cua tung nu o vi tri thu 61 la :[('T', 9), ('C', 1)]
+2023-06-12 09:45:58,275 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 61 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACT
+2023-06-12 09:45:58,275 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,275 - INFO - So lan lap lai cua tung nu o vi tri thu 62 la :[('T', 6), ('C', 2), ('A', 2)]
+2023-06-12 09:45:58,275 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 62 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTT
+2023-06-12 09:45:58,275 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,275 - INFO - So lan lap lai cua tung nu o vi tri thu 63 la :[('T', 7), ('G', 2), ('C', 1)]
+2023-06-12 09:45:58,275 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 63 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTT
+2023-06-12 09:45:58,275 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,275 - INFO - So lan lap lai cua tung nu o vi tri thu 64 la :[('A', 9), ('T', 1)]
+2023-06-12 09:45:58,275 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 64 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTA
+2023-06-12 09:45:58,275 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,275 - INFO - So lan lap lai cua tung nu o vi tri thu 65 la :[('G', 9), ('A', 1)]
+2023-06-12 09:45:58,276 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 65 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAG
+2023-06-12 09:45:58,276 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,276 - INFO - So lan lap lai cua tung nu o vi tri thu 66 la :[('T', 9), ('G', 1)]
+2023-06-12 09:45:58,276 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 66 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGT
+2023-06-12 09:45:58,276 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,276 - INFO - So lan lap lai cua tung nu o vi tri thu 67 la :[('G', 9), ('T', 1)]
+2023-06-12 09:45:58,276 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 67 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTG
+2023-06-12 09:45:58,276 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,276 - INFO - So lan lap lai cua tung nu o vi tri thu 68 la :[('G', 10)]
+2023-06-12 09:45:58,276 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 68 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGG
+2023-06-12 09:45:58,276 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,276 - INFO - So lan lap lai cua tung nu o vi tri thu 69 la :[('C', 9), ('G', 1)]
+2023-06-12 09:45:58,276 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 69 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGC
+2023-06-12 09:45:58,276 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,277 - INFO - So lan lap lai cua tung nu o vi tri thu 70 la :[('A', 4), ('T', 3), ('G', 2), ('C', 1)]
+2023-06-12 09:45:58,277 - INFO - Trinh tu muc tieu sau lan duyet qua vi tri thu 70 la : TTACGCTGGCGGCACGCCTAATACATGCAAGTCGAACGGAAGTATAAGCAGCAATTACACTTTAGTGGCA
+2023-06-12 09:45:58,277 - INFO -                                                                                                                                                                                                         
+2023-06-12 09:45:58,277 - DEBUG - End

@@ -4,7 +4,7 @@ from Bio import SeqIO
 logging.basicConfig(level=logging.DEBUG, filename="log_ques_3_ref.txt", filemode="w",
                     format="%(asctime)s - %(levelname)s - %(message)s")
 
-list_of_reads = list(str(sequence.seq) for sequence in SeqIO.parse("C:/Users/Admin/Documents/Study/KTest Training/Tài liệu/Technical_test_06June/Seq03.fasta","fasta"))
+list_of_reads = list(str(sequence.seq) for sequence in SeqIO.parse("Seq03.fasta","fasta"))
 
 
 def generate_kmers(sequence, k):

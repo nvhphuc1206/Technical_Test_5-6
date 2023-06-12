@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.DEBUG, filename="log_ques_2.txt", filemode="w"
 
 logging.debug("Start")
 
-sequences = list(str(sequence.seq) for sequence in SeqIO.parse("C:/Users/Admin/Documents/Study/KTest Training/Tài liệu/Technical_test_06June/Seq02.fasta", "fasta"))
+sequences = list(str(sequence.seq) for sequence in SeqIO.parse("Seq02.fasta", "fasta"))
 
 
 # Xác định xem các trình tự có cùng kích thước hay không:
